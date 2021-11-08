@@ -4,12 +4,18 @@ In a forest there lives a squirrel, and it likes to jump between the treetops th
 
 The forest is given by a list of integers, the heights of the trees, so for example the forest (see the raw version of the readme for the correct forest)
 
-#
-# #
-# # #
-# # # # #   
-# # # # # # #
-# # # # # # # #
+@
+
+@ @
+
+@ @ @
+
+@ @ @ @ @   
+
+@ @ @ @ @ @ @
+
+@ @ @ @ @ @ @ @
+
 
 is given by the list [6,5,4,3,3,2,2,1]. 
 
