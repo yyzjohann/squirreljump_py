@@ -22,3 +22,5 @@ In the same file (SquirrelJump.py) you can choose (by commenting in/out) between
 There are also some tests included, to run them do
 
 > python3.X -m unittest Test.py
+
+(Here X should be >= 7)
